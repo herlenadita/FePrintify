@@ -28,6 +28,7 @@ A front-end of printify using React JS. This website can be used for accessing r
 </div>
 
 <p align="center">
+  <a href="http://printify.sytes.net:3000/">Live Demo</a> 
   <a href="#features">Features</a> •
   <a href="#setup">Setup</a> •
   <a href="https://github.com/herlenadita/FePrintify/archive/refs/heads/master.zip">Download Zip</a> •
