@@ -63,3 +63,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 MIT
+
+## References
+- https://github.com/rohan-hari/Postman-Clone-React.git
+- https://startbootstrap.com/theme/new-age
