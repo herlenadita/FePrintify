@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/itkanmo/FePrintify/">
+  <a href="https://github.com/herlenadita/FePrintify/">
      Printify
   </a>
 </h1>
@@ -30,7 +30,7 @@ A front-end of printify using React JS. This website can be used for accessing r
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#setup">Setup</a> •
-  <a href="https://github.com/itkanmo/FePrintify/archive/refs/heads/master.zip">Download Zip</a> •
+  <a href="https://github.com/herlenadita/FePrintify/archive/refs/heads/master.zip">Download Zip</a> •
   <a href="#license">License</a>
 </p>
 
@@ -49,7 +49,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/itkanmo/FePrintify.git
+$ git clone https://github.com/herlenadita/FePrintify.git
 # Go into the repository
 $ cd Printify
 # Install dependencies
